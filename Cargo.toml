@@ -1,0 +1,14 @@
+[package]
+name = "lc3"
+version = "0.1.0"
+edition = "2021"
+
+[[example]]
+name = "print_enum" # examples/print_enum.rs
+
+
+[dependencies]
+strum = "0.26.3"
+strum_macros = "0.26.4"
+
+
